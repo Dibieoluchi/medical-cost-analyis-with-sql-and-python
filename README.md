@@ -1,4 +1,6 @@
 # Medical Cost Personal Dataset Analysis
+![image](https://github.com/Dibieoluchi/medical-cost-analyis-with-sql-and-python/assets/88893142/4eb8a43a-3d16-461b-8381-125e1ee083db)
+
 # Overview
 This project analyzes a small sample of the USA population's medical insurance costs based on various attributes such as age, sex, BMI, number of children, smoking habits, and region. The dataset is sourced from Kaggle and is used in the book "Machine Learning with R" by Brett Lantz. The analysis aims to identify the factors influencing medical charges and build a predictive model to estimate individual medical costs.
 
