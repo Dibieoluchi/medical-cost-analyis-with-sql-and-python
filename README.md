@@ -22,6 +22,9 @@ This project analyzes a small sample of the USA population's medical insurance c
 
 # Correlation Matrix
 
+![image](https://github.com/Dibieoluchi/medical-cost-analyis-with-sql-and-python/assets/88893142/22d266bb-f96a-41e9-bd27-58b1361ef971)
+
+
 The correlation matrix revealed the following associations with medical charges:
 
 1.Children: Very weak positive correlation
